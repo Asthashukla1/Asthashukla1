@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astha Shukla</h1>
-<h3 align="center">Creative CSE Student | Future Full-Stack Developer | Decor Enthusiast</h3>
+<h3 align="center">Creative CSE Student | Future Full-Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Asthashukla1" />
