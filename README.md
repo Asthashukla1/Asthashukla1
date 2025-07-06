@@ -2,7 +2,7 @@
 <h3 align="center">Creative CSE Student | Future Full-Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Asthashukla1" />
+  <img src="https://komarev.com/ghpvc/?username=Asthashukla1&label=Profile%20views&color=0e75b6&style=flat" alt="Asthashukla1" />
 </p>
 
 ---
